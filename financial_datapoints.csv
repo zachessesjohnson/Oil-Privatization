@@ -1,0 +1,14 @@
+Company,Year,Revenue_Millions,Currency,Net_Income_Millions,Dividends_Millions,Source
+YPF,2022,18760,USD,,,Statista
+YPF,2023,17310,USD,,,MacroTrends
+YPF,2024,19290,USD,945,,MacroTrends; StockAnalysis
+Petrobras,2022,120000,USD,36620,,"Statista (>120B)"
+Petrobras,2023,102400,USD,24880,,Statista
+Petrobras,2024,91410,USD,7530,,MacroTrends
+Saudi_Aramco,2022,535180,USD,161100,75200,Aramco Annual Report
+Saudi_Aramco,2023,440800,USD,121300,97800,Aramco Annual Report
+Hindustan_Zinc,2023,34098,INR_Crore,10511,,"HZL Press Release (FY22-23)"
+Hindustan_Zinc,2024,28932,INR_Crore,7759,,"HZL Press Release (FY23-24)"
+Hindustan_Zinc,2025,32903,INR_Crore,10279,,"Vedanta Annual Report (FY24-25)"
+Coal_India,2023,138252,INR_Crore,31723,,"Equitymaster (FY22-23)"
+Coal_India,2024,142324,INR_Crore,37369,,"Coal India Press Release (FY23-24)"

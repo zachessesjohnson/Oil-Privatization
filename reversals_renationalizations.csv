@@ -1,0 +1,8 @@
+Country,Company,Reversal_Date,Legal_Instrument,Percent_Renationalized,Compensation_Paid_Millions,Currency,ICSID_Case_Number,ICSID_Award_Millions,Award_Currency,Award_Date,Settlement_Date,Settlement_Amount_Millions,Source
+Argentina,YPF,2012-05-05,Law_26741,51,0,,ARB/12/38,,,2014-07-18,2014-05-19,5000_USD_bonds,"SEC EDGAR YPF 6-K; Kluwer Arbitration"
+Bolivia,YPFB,2006-05-01,Supreme_Decree_28701,50,112,USD,,,,,,,Multiple sources
+Venezuela,PDVSA,2007-02,Decree_Law_5200,60_minimum,Partial_varied,,Multiple,,,,,,Lexology; Herbert Smith Freehills
+Venezuela,Exxon_Mobil,2007,Decree_Law_5200,,,,ARB/07/27,1600,USD,2014-10,,,Herbert Smith Freehills ICSID
+Venezuela,ConocoPhillips,2007,Decree_Law_5200,,,,ARB/07/30,8700,USD,2019-03,,,IISD; ConocoPhillips
+Russia,Yukos,2003-2007,Tax_Claims_Bankruptcy,100,0,,PCA_2005-04/Aa226,50020,USD,2014-07-18,,,IISD; PCA Awards
+Ecuador,Occidental,2006-05-15,Caducidad_Decree,100,0,,ARB/06/11,1061,USD,2015-11,,,Kluwer Arbitration Blog
